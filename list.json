@@ -1,0 +1,784 @@
+[{
+  "id": 1,
+  "titre": "W3C Validator",
+  "description_fr": "W3C Validator est un service de validation de balisage il permet aux utilisateurs Internet de vérifier les documents HTML et XHTML pour un balisage bien formé. La validation du balisage est une étape importante pour garantir la qualité technique des pages Web.",
+  "description_en": "The Markup Validation Service is a validator by the World Wide Web Consortium (W3C) that allows Internet users to check HTML and XHTML documents for well-formed markup.",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/W3C%C2%AE_Icon.svg/210px-W3C%C2%AE_Icon.svg.png",
+  "logoretina": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/W3C%C2%AE_Icon.svg/210px-W3C%C2%AE_Icon.svg.png",
+  "categorie": "Codes",
+  "link": "https://validator.w3.org/"
+}, 
+{
+  "id": 2,
+  "titre": "CodePen",
+  "description_fr": "CodePen est une communauté en ligne permettant de tester et de présenter des extraits de code HTML, CSS et JavaScript créés par l'utilisateur.",
+  "description_en": "CodePen is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and open-source learning environment.",
+  "logo": "https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png",
+  "logoretina": "https://i2.wp.com/blog.codepen.io/wp-content/uploads/2012/06/codepen-wordmark-display-inside-black@10x.png?ssl=1",
+  "categorie": "Codes",
+  "link": "https://codepen.io/"
+}, 
+{
+  "id": 3,
+  "titre": "Animista",
+  "description_fr": "Animista, créé par Ana Travas, est une collection de dizaines d’animations en CSS. La particularité d’Animista est la possibilité de customiser les animations et de voir directement le résultat, et ce avant même de générer le fichier CSS à télécharger.",
+  "description_en": "Animista is a place where you can play with a collection of ready to use CSS animations, tweak them and download only those you will actually use.",
+  "logo": "https://www.threebu.it/public/158/animista-logo.jpg",
+  "logoretina": "",
+  "categorie": "Codes",
+  "link": "https://animista.net/"
+}, 
+{
+  "id": 4,
+  "titre": "Metadata Generator",
+  "description_fr": "Le générateur balises meta vous permettra de créer gratuitement&#8239;: la balise TITLE, la balise meta DESCRIPTION, la balise meta KEYWORDS, et d'autres&hellip;",
+  "description_en": "The meta tag generator will allow you to create for free&#8239;: the TITLE tag, the meta DESCRIPTION tag, the KEYWORDS meta tag, and others",
+  "logo": "https://anthonypauwels.be/dist/images/identity.svg",
+  "logoretina": "https://anthonypauwels.be/dist/images/identity.svg",
+  "categorie": "Codes",
+  "link": "https://anthonypauwels.be/quarantedeux/metadatas/"
+},
+{
+  "id": 5,
+  "titre": "PageSpeed Insights",
+  "description_fr": "Un outil de Google qui permet d'améliorer la vitesse de chargement de vos pages sur tous les appareils",
+  "description_en": "PageSpeed Insights (PSI) reports on the performance of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved.",
+  "logo": "https://www.gstatic.com/images/icons/material/product/2x/pagespeed_64dp.png",
+  "logoretina": "https://1.bp.blogspot.com/-PNmeuAbHTkA/XJTbSyiP0lI/AAAAAAAAJS4/NHuDwt_LY8cC4u6CXW4S23bIBVBDWDxdACK4BGAYYCw/s1600/logo%2Bpagespeed%2Binsights.png",
+  "categorie": "Codes",
+  "link": "https://developers.google.com/speed/pagespeed/insights"
+},
+{
+  "id": 6,
+  "titre": "RapidTables",
+  "description_fr": "Référence et outils en ligne - calculatrices, convertisseurs, mathématiques, électricité, conception de sites Web.",
+  "description_en": "Online reference and tools - calculators, converters, math, electricity, web design.",
+  "logo": "https://www.rapidtables.com/lib/ogimages/rapidtables.jpg",
+  "logoretina": "https://www.rapidtables.com/lib/ogimages/rapidtables.jpg",
+  "categorie": "Codes",
+  "link": "https://www.rapidtables.com/"
+},
+{
+  "id": 7,
+  "titre": "GSAP&nbsp;-&nbsp;GreenSock",
+  "description_fr": "La plate-forme d'animation GreenSock (GSAP pour faire court) est une puissante bibliothèque JavaScript qui permet aux développeurs et concepteurs frontaux de créer des animations robustes basées sur la chronologie. Cela permet un contrôle précis des séquences d'animation plus impliquées plutôt que des propriétés d'image clé et d'animation parfois contraignantes qu'offre CSS.",
+  "description_en": "The GreenSock Animation Platform (GSAP for short) is a powerful JavaScript library that enables front-end developers and designers to create robust timeline based animations. This allows for precise control for more involved animation sequences rather than the sometimes constraining keyframe and animation properties that CSS offers.",
+  "logo": "https://greensock.com/uploads/set_resources_4/84c1e40ea0e759e3f1505eb1788ddf3c_greensock-logo.svg",
+  "logoretina": "",
+  "categorie": "Codes",
+  "link": "https://greensock.com/gsap/"
+},
+{
+  "id": 8,
+  "titre": "Bulma",
+  "description_fr": "Bulma est un framework CSS gratuit et open source basé sur Flexbox et construit avec Sass. Il est 100&nbsp;% réactif, entièrement modulaire et disponible gratuitement.",
+  "description_en": "Bulma is a free, open source CSS framework based on Flexbox and built with Sass. It's 100&nbsp;% responsive, fully modular, and available for free.",
+  "logo": "https://bulma.io/images/bulma-logo.png",
+  "logoretina": "https://bulma.io/images/bulma-logo.png",
+  "categorie": "Codes",
+  "link": "https://bulma.io/"
+},
+{
+  "id": 9,
+  "titre": "HTML5 Boilerplate",
+  "description_fr": "HTML5 Boilerplate est une template (HTML+CSS+JS+&hellip;) lancé par Paul Irish (Modernizr) et Divya Manian. Contient toutes les bonnes pratiques du moment en terme de performances, de compatibilité inter-navigateurs, de JavaScript&hellip;",
+  "description_en": "HTML5 Boilerplate is an HTML, CSS and JavaScript template (or boilerplate) for creating HTML5 websites with cross-browser capability.",
+  "logo": "https://cdn.freebiesupply.com/logos/large/2x/html5-boilerplate-logo-png-transparent.png",
+  "logoretina": "https://quintagroup.com/cms/technology/Images/html5-boilerplate.png/@@images/image.png",
+  "categorie": "Codes",
+  "link": "https://html5boilerplate.com/"
+},
+{
+  "id": 10,
+  "titre": "Bootstrap",
+  "description_fr": "Bootstrap est une collection d'outils utiles à la création du design de sites et d'applications web. C'est un ensemble qui contient des codes HTML et CSS, des formulaires, boutons, outils de navigation et autres éléments interactifs, ainsi que des extensions JavaScript en option.",
+  "description_en": "Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg",
+  "logoretina": "",
+  "categorie": "Codes",
+  "link": "https://getbootstrap.com/"
+},
+{
+  "id": 11,
+  "titre": "Modernizr",
+  "description_fr": "Modernizr est une bibliothèque développée en JavaScript détectant l'implémentation native par le navigateur de différentes fonctionnalités récentes. Elle est distribuée sous licence MIT.",
+  "description_en": "Modernizr It’s a collection of superfast tests as we like to call them – which run as your web page loads, then you can use the results to tailor the experience to the user.",
+  "logo": "https://modernizr.com/img/logo.svg",
+  "logoretina": "",
+  "categorie": "Codes",
+  "link": "https://modernizr.com/"
+},
+{
+  "id": 12,
+  "titre": "Google Hosted Libraries",
+  "description_fr": "Google Hosted Libraries est un outil crée par Google il permet d’integrer des bibliotheques dans vos page HTML sans avoir besoin de les télécharger.",
+  "description_en": "The Google Hosted Libraries is a stable, reliable, high-speed, globally available content distribution network for the most popular, open-source JavaScript libraries.",
+  "logo": "https://ainc.jp/wp-content/uploads/2018/05/ggdev.png",
+  "logoretina": "https://ainc.jp/wp-content/uploads/2018/05/ggdev.png",
+  "categorie": "Codes",
+  "link": "https://developers.google.com/speed/libraries"
+},
+{
+  "id": 13,
+  "titre": "InVision",
+  "description_fr": "Transformez vos conceptions Web et mobile (iOS, Android) en prototypes et maquettes interactifs cliquables. Partagez-les et collaborez avec eux.",
+  "description_en": "Transform your Web & Mobile (iOS, Android) designs into clickable, interactive Prototypes and Mockups. Share and Collaborate on them with others.",
+  "logo": "https://cdn.worldvectorlogo.com/logos/invision.svg",
+  "logoretina": "",
+  "categorie": "Design",
+  "link": "https://www.invisionapp.com"
+},
+{
+  "id": 14,
+  "titre": "Sketch",
+  "description_fr": "Sketch est le logiciel de conception d’interface, disponible sur macOS uniquement. Une différence essentielle entre Sketch et d'autres éditeurs de graphiques vectoriels est que Sketch n'inclut pas de fonctionnalités de conception d'impression. Les fichiers conçus dans Sketch sont enregistrés dans son propre format de fichier &nbsp;«&nbsp;sketch&nbsp;»&nbsp;. Les maquettes peuvent également être enregistrés dans les formats populaires PNG, JPG, TIFF, WebP.",
+  "description_en": "Sketch is built for modern graphic designers, and it shows in every fibre of the app. From a flexible workflow with support for Multiple Pages and Artboards.",
+  "logo": "https://cdn.worldvectorlogo.com/logos/sketch-2.svg",
+  "logoretina": "https://cdn.worldvectorlogo.com/logos/sketch-2.svg",
+  "categorie": "Design",
+  "link": "https://www.sketch.com/"
+},
+{
+  "id": 15,
+  "titre": "Figma",
+  "description_fr": "Figma est une application de conception d’interface qui s’exécute dans le navigateur, mais c’est bien plus que cela. C'est probablement la meilleure application pour les projets de conception collaborative en équipe.",
+  "description_en": "Build better products as a team. Design, prototype, and gather feedback all in one place with Figma.",
+  "logo": "https://cdn.worldvectorlogo.com/logos/figma-1.svg",
+  "logoretina": "",
+  "categorie": "Design",
+  "link": "https://www.figma.com/"
+},
+{
+  "id": 16,
+  "titre": "Framer X",
+  "description_fr": "Framer X est le meilleur outil de conception interactive. Créez des mises en page réactives, concevez des prototypes réalistes et rapprochez tout de la production, le tout au même endroit.",
+  "description_en": "Bring your creative ideas to life with Framer X, the best interactive design tool. Create responsive layouts, design realistic prototypes, and bring everything closer to production, all in one place.",
+  "logo": "https://www.atomico.com/wp-content/uploads/2018/11/black-framer.png",
+  "logoretina": "https://www.atomico.com/wp-content/uploads/2018/11/black-framer.png",
+  "categorie": "Design",
+  "link": "https://www.framer.com/"
+},
+{
+  "id": 17,
+  "titre": "Balsamiq Wireframes",
+  "description_fr": "Outil de wireframing papier rapide qui vous aide à travailler plus rapidement et plus intelligemment. Il reproduit l'expérience de l'esquisse sur un tableau blanc, mais à l'aide d'un ordinateur.",
+  "description_en": "Balsamiq Wireframes is a rapid low-fidelity UI wireframing tool that reproduces the experience of sketching on a notepad or whiteboard, but using a computer. It really forces you to focus on structure and content, avoiding lengthy discussions about colors and details that should come later in the process.",
+  "logo": "https://ga1.imgix.net/logo/o/91065-1487749816-7583342",
+  "logoretina": "https://ga1.imgix.net/logo/o/91065-1487749816-7583342",
+  "categorie": "Design",
+  "link": "https://balsamiq.com/wireframes/"
+},
+{
+  "id": 18,
+  "titre": "Proto.io",
+  "description_fr": "Avec de nombreux modèles de conception et de prototype, vous pouvez faciliter votre travail avec Proto.io. Il est facile à utiliser, car aucun codage n'est requis. Plus important encore, vous pouvez importer en toute transparence vos composants d'interface utilisateur depuis Sketch ou Photoshop.",
+  "description_en": "Create fully-interactive high-fidelity prototypes that look and work exactly like your app should. No coding required.",
+  "logo": "https://static.proto.io/images/publicsite/structured-data/logo.png",
+  "logoretina": "https://static.proto.io/images/publicsite/structured-data/logo.png",
+  "categorie": "Design",
+  "link": "https://proto.io/"
+},
+{
+  "id": 19,
+  "titre": "Froala Design Blocks",
+  "description_fr": "Plus de 170 blocs de conception réactifs prêts à être utilisés dans vos applications Web ou mobiles.",
+  "description_en": "Over 170 responsive design blocks ready to be used in your web or mobile apps. All blocks are based on the Bootstrap Library, and they are the building blocks for beautiful websites.",
+  "logo": "https://froala.com/wp-content/uploads/2019/10/froala.svg",
+  "logoretina": "https://froala.com/wp-content/uploads/2019/10/froala.svg",
+  "categorie": "Design",
+  "link": "https://froala.com/design-blocks"
+},
+{
+  "id": 20,
+  "titre": "Adele by UXPIN",
+  "description_fr": "Des dizaines de systèmes de conception et de bibliothèques de modèles ont été soigneusement analysés. Apprenez, profitez, contribuez&#8239;!",
+  "description_en": "The repository of publicly available design systems and pattern libraries",
+  "logo": "https://www.uxpin.com/images/home/uxpin-dark.svg",
+  "logoretina": "https://www.uxpin.com/images/home/uxpin-dark.svg",
+  "categorie": "Design",
+  "link": "https://adele.uxpin.com/"
+},
+{
+  "id": 21,
+  "titre": "Material Design",
+  "description_fr": "Material Design est un système adaptable de directives, de composants et d'outils qui prennent en charge les meilleures pratiques de conception d'interface utilisateur. Soutenu par du code open-source, Material rationalise la collaboration entre les concepteurs et les développeurs et aide les équipes à créer rapidement de beaux produits.",
+  "description_en": "Material Design is an adaptable system of guidelines, components, and tools that support the best practices of user interface design. Backed by open-source code, Material streamlines collaboration between designers and developers, and helps teams quickly build beautiful products.",
+  "logo": "https://material.io/resources/icons/static/ic_material_192px_light.svg",
+  "logoretina": "",
+  "categorie": "Design",
+  "link": "https://material.io/"
+},
+{
+  "id": 22,
+  "titre": "Flat UI",
+  "description_fr": "Kit d'interface utilisateur gratuit.",
+  "description_en": "Free User Interface Kit.",
+  "logo": "http://designmodo.github.io/Flat-UI/docs/assets/images/demo/logo-mask.png",
+  "logoretina": "http://designmodo.github.io/Flat-UI/docs/assets/images/demo/logo-mask.png",
+  "categorie": "Design",
+  "link": "http://designmodo.github.io/Flat-UI/"
+},
+{
+  "id": 23,
+  "titre": "UX Bear",
+  "description_fr": "Votre ami, UX Bear vous aide à découvrir de superbes lectures UX afin que vous puissiez vous concentrer sur les choses qui comptent.",
+  "description_en": "Your friend, UX Bear helps you discover great UX reads so you can focus on stuff that matters.",
+  "logo": "https://cdn-images-1.medium.com/max/72/1*4dXC4-4BGgu348Q06f-FGw.jpeg",
+  "logoretina": "https://cdn-images-1.medium.com/max/72/1*4dXC4-4BGgu348Q06f-FGw.jpeg",
+  "categorie": "Design",
+  "link": "http://uxchat.me/"
+},
+{
+  "id": 24,
+  "titre": "Muzli",
+  "description_fr": "Muzli est une nouvelle extension Chrome qui fournit instantanément des histoires de design pertinentes et de l'inspiration.   ",
+  "description_en": "Muzli instantly delivers cutting-edge design projects and news each time a new tab is open in your browser. Discover the best web design inspiration, best websites, best logos, web trends, best mobiles sites and applications, minimalist websites, brutalist websites, innovative illustrations, design features, unique websites, photography projects, and visual art, as well as opinions and articles from design experts across the web and around the world.",
+  "logo": "https://pbs.twimg.com/profile_images/659710386069897216/C5GLKeIW_400x400.png",
+  "logoretina": "https://pbs.twimg.com/profile_images/659710386069897216/C5GLKeIW_400x400.png",
+  "categorie": "Inspiration",
+  "link": "https://muz.li/"
+},
+{
+  "id": 25,
+  "titre": "Unsplash",
+  "description_fr": "Unsplash est un site web dédié au partage de photos sous licence libre (licence Unsplash).",
+  "description_en": "Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Unsplash_wordmark_logo.svg",
+  "logoretina": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Unsplash_wordmark_logo.svg",
+  "categorie": "Design",
+  "link": "https://unsplash.com/"
+},
+{
+  "id": 26,
+  "titre": "BootstrapMade",
+  "description_fr": "Modèles de site Web gratuits utilisant Bootstrap, le framework HTML, CSS et JS le plus populaire.",
+  "description_en": "Free website templates using Bootstrap, the most popular HTML, CSS & JS framework.",
+  "logo": "https://bootstrapmade.com/wp-content/themes/bmade/assets/img/logo.png",
+  "logoretina": "https://bootstrapmade.com/wp-content/themes/bmade/assets/img/logo.png",
+  "categorie": "Inspiration",
+  "link": "https://bootstrapmade.com/"
+},
+{
+  "id": 27,
+  "titre": "Awwwards",
+  "description_fr": "Awwwards est un organisme professionnel de compétition de conception et de développement Web. Il vise à reconnaître et à promouvoir le meilleur de la conception Web innovante. Il s'agit d'un concours de sites web auquel les développeurs peuvent se soumettre. Les meilleures candidatures tout au long de l'année sont décernées lors de la conférence Awwwards et de la cérémonie de remise des prix, qui ont lieu dans différentes villes des États-Unis et de l'Europe. Awwwards a été fondée en 2009 et a son siège à Valence, en Espagne.",
+  "description_en": "Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.",
+  "logo": "https://image.flaticon.com/icons/svg/28/28279.svg",
+  "logoretina": "",
+  "categorie": "Inspiration",
+  "link": "https://www.awwwards.com/"
+},
+{
+  "id": 28,
+  "titre": "Behance",
+  "description_fr": "Behance est un site web où des artistes et créateurs postent leurs créations. Le propriétaire de Behance est &#8239;«&#8239;Adobe Systems&#8239;»&#8239;. Ses concurrents sont Dribbble et DeviantArt. En juillet 2018, Behance comptait plus de 10 millions de membres.",
+  "description_en": "Behance (stylized as Bēhance) is a social media platform owned by Adobe which aims to showcase and discover creative work.",
+  "logo": "https://image.flaticon.com/icons/svg/254/254383.svg",
+  "logoretina": "",
+  "categorie": "Inspiration",
+  "link": "https://www.behance.net/"
+},
+{
+  "id": 29,
+  "titre": "Dribbble",
+  "description_fr": "Dribbble est un site internet qui regroupe des travaux de designer. Il sert de plate-forme de conception de portfolio, l'une des plus grandes plates-formes permettant aux concepteurs de partager leur travail en ligne.",
+  "description_en": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.",
+  "logo": "https://image.flaticon.com/icons/svg/733/733544.svg",
+  "logoretina": "",
+  "categorie": "Inspiration",
+  "link": "https://dribbble.com/"
+},
+{
+  "id": 30,
+  "titre": "Pinterest",
+  "description_fr": "Trouvez des inspirations et idées pratiques pour tous vos projets au quotidien sur Pinterest.",
+  "description_en": "Find inspirations and practical ideas for all your everyday projects on Pinterest.",
+  "logo": "https://image.flaticon.com/icons/svg/145/145808.svg",
+  "logoretina": "",
+  "categorie": "Inspiration",
+  "link": "https://www.pinterest.com/"
+},
+{
+  "id": 31,
+  "titre": "Freepik",
+  "description_fr": "Trouvez des ressources graphiques gratuites pour Svg. Plus de 1000 Vecteurs, Stock Photos et fichiers PSD gratuit pour un usage commercial.",
+  "description_en": "Find & Download Free Graphic Resources for Svg. 1000+ Vectors, Stock Photos & PSD files. Free and High Quality Images.",
+  "logo": "https://cdn.worldvectorlogo.com/logos/freepik.svg",
+  "logoretina": "",
+  "categorie": "Inspiration",
+  "link": "https://www.freepik.com/"
+},
+{
+  "id": 32,
+  "titre": "Cleanpng",
+  "description_fr": "Découvrez des images et des illustrations d'arrière-plan transparentes. Meilleure qualité, téléchargement illimité gratuit.",
+  "description_en": "Discover transparent background images and illustrations. Best quality, free unlimited download.",
+  "logo": "https://www.cleanpng.com/static/img/logo2.png",
+  "logoretina": "https://www.cleanpng.com/static/img/logo2.png",
+  "categorie": "Design",
+  "link": "https://www.cleanpng.com/"
+},
+{
+  "id": 33,
+  "titre": "Designhill",
+  "description_fr": "Sources d’inspirations pour découvrir des logos.",
+  "description_en": "Sources of inspiration for discovering logos.",
+  "logo": "https://cdn1.designhill.com/assets/dh/images/designhill_logo.svg",
+  "logoretina": "",
+  "categorie": "Inspiration",
+  "link": "https://www.designhill.com/logo-design/?utm_expid=.wX8OKDz6T-GxABBcBIRUjA.0&utm_referrer=https%3A%2F%2Fwww.designhill.com%2F"
+},
+
+{
+  "id": 35,
+  "titre": "Fonts In Use",
+  "description_fr": "Cet outil vous permet de voir d'une police d'écriture choisie dans des travaux réels.",
+  "description_en": "A searchable archive of typographic design, indexed by typeface, format, and topic.",
+  "logo": "https://assets.fontsinuse.com/images/nameplate.svg",
+  "logoretina": "",
+  "categorie": "typos",
+  "link": "https://fontsinuse.com/"
+},
+{
+  "id": 36,
+  "titre": "TYPE BY",
+  "description_fr": "TYPE BY est un outil qui vous permet de choisir la meilleure police pour votre site.",
+  "description_en": "TYPE BY is an independent retail font publishing label.",
+  "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAb1BMVEURERH7+/sAAAD////Gxsb09PS5ubmenp4QEBBHR0eGhoYNDQ0ICAg0NDTh4eHq6urT09MbGxvx8fFpaWmnp6e/v79YWFiXl5cnJyeAgIBVVVWvr683NzdQUFA+Pj5vb2/Z2dmQkJArKyt2dnZhYWEPsy1lAAADJElEQVR4nO3c6VbiMBiA4fKFarEbIJuigjj3f41TdFyGtoeQhJj0vM//al/S/TRNEgAAAAAAAAAAAAAAAAAAAAAAAAAAgNhleSFS5Nlvr8e15CJ5OXl+mTWVjv6k+KK5NrvxXB3t16XkTgJfx37cayRmcl8pNXqnVLrQ/FnOFN4oP+7Or20ui8++j8jq4CCxKRz5oFGYy/JkXVQ6sU8MpzBrRrC1VL2xPt6EUyirjjVRS7E9bQRTmEnVtSZqZbudBlMou84VUdPhFJ4eZj5tLM+KoRTmUneviHqzHMRQCouXtGfB24EUymPPeqjtUAq7zhXvC94MpXDSt+BiIIX5bN5zpNG4oI2iMJFpT6HtpWk4ha/dZ/zK9rJNtqNUV/v/ay+ajs4V5mL2y2gk6msNt1o7vMfvHERVW195X6Cj0PZs/FMm+3ai/YX3Ja5cmBSH1oWbg230EtcuTGTz/w2UUg8+t1EPhclxV1fffdWj1xH0UdgcUJ9v0n+PrvYPTh61XcJDYXO4kWS13m4Xb6W4eVx6CR+FyftT76PiFx7reyr8RRTGj8L4URg/CuNHYfwojB+F8aMwfhTGj8L4URg/CuNHYfwojB+F8aMwfhTGj8L4URg/CuNH4VlZnoc9RduuMDu+qzY7vnTt/YU8bTaFTd+fxb6u62r5Vvh9LfYCFoW57KqvOc/prfcXRzWZF0ox/jlJW9UOJjBfg3GhHE4mwKqRzux8/0wL86I1w1eNnkNMNCzMuiYeqTrEQ6phYffcSetJd9dgWtgzKW0W3iCaFRblleYVXoFZYc+sOwcT7d0zLNz2FHqdlabHsLBnNxzND8HtiIaFnZ+7aKSlq88kOeN6DG0/B+Ee+2HPUnc9heOhHEuLTU/hw1AKExl3JqYBXpiaFk46r0vX4Q2h8d1T17FGVQEOofn9YfuEodKnAIfQ/B6/SE4S1TzIG+Djl5xOad7kFc2G+t2o1L4MMjApnianSs2dKZfH6dfPUvufpK2raH3rQvtokYmU62VV19PFSsK7mHHj6/cZaN+HQccBAAAAAAAAAAAAAAAAAAAAAAAAAAbjL3sPLTNMddFkAAAAAElFTkSuQmCC",
+  "logoretina": "",
+  "categorie": "typos",
+  "link": "https://www.typeby.com/"
+},
+{
+  "id": 37,
+  "titre": "Fontjoy",
+  "description_fr": "Générez des combinaisons de polices avec un apprentissage approfondi.",
+  "description_en": "Generate font combinations with deep learning.",
+  "logo": "https://dectim.ca/wp-content/uploads/2019/05/fontjoy.jpg",
+  "logoretina": "https://dectim.ca/wp-content/uploads/2019/05/fontjoy.jpg",
+  "categorie": "typos",
+  "link": "https://fontjoy.com/"
+},
+{
+  "id": 38,
+  "titre": "Google Fonts",
+  "description_fr": "Google Fonts est un service d’hébergement gratuit de polices d’écritures pour le Web, démarré en 2010. Ces polices sont sous licences libres dont principalement la licence Apache et la SIL OFL.",
+  "description_en": "Description",
+  "logo": "https://bookmarkbro.com/wp-content/uploads/2017/07/google-fonts-logo.png",
+  "logoretina": "https://bookmarkbro.com/wp-content/uploads/2017/07/google-fonts-logo.png",
+  "categorie": "typos",
+  "link": "https://fonts.google.com/"
+},
+{
+  "id": 39,
+  "titre": "Google Fonts Analytics",
+  "description_fr": "Classement des polices d'écriture les plus utilisées sur le web.",
+  "description_en": "Robust collection of open source designer web fonts. By using our extensive catalog, you can share and integrate typography into any design project seamlessly no matter where you are in the world.",
+  "logo": "https://www.gstatic.com/images/branding/product/2x/google_fonts_blue_ios_64dp.png",
+  "logoretina": "https://www.gstatic.com/images/branding/product/2x/google_fonts_blue_ios_64dp.png",
+  "categorie": "typos",
+  "link": "https://fonts.google.com/analytics"
+},
+{
+  "id": 40,
+  "titre": "Font Squirrel",
+  "description_fr": "Font Squirrel parcourt Internet pour trouver des polices de haute qualité légitimement gratuites. Téléchargez des milliers de polices entièrement légales, de haute qualité et gratuites.  ",
+  "description_en": "Font Squirrel scours the internet for high quality, legitimately free fonts . Download thousands of completely legal, high quality, free fonts.",
+  "logo": "https://themerex.net/wp-content/uploads/2020/02/fontsquirrel.png",
+  "logoretina": "https://themerex.net/wp-content/uploads/2020/02/fontsquirrel.png",
+  "categorie": "typos",
+  "link": "https://www.fontsquirrel.com/"
+},
+{
+  "id": 41,
+  "titre": "DaFont",
+  "description_fr": "Téléchargement libre de polices présentes sur ce site par leurs propriétés de leurs auteurs.",
+  "description_en": "Free download of policies displayed on this site by their properties of their authors.",
+  "logo": "https://www.dafont.com/img/dafont.png",
+  "logoretina": "https://www.dafont.com/img/dafont.png",
+  "categorie": "typos",
+  "link": "https://www.dafont.com/fr/"
+},
+{
+  "id": 42,
+  "titre": "Identifont",
+  "description_fr": "Le site Web Identifont est un répertoire en ligne de polices de caractères, dont la fonction principale est un outil permettant d'identifier une police à partir d'un échantillon. Il a été décrit comme le plus grand répertoire Internet de polices de caractères.",
+  "description_en": "Identify fonts by appearance, find fonts by name, find picture or symbol fonts, find fonts by designer or publisher.",
+  "logo": "https://pbs.twimg.com/profile_images/753908720250261504/F9azXc4t_400x400.jpg",
+  "logoretina": "https://pbs.twimg.com/profile_images/753908720250261504/F9azXc4t_400x400.jpg",
+  "categorie": "typos",
+  "link": "http://www.identifont.com/"
+},
+{
+  "id": 34,
+  "titre": "Type Scale",
+  "description_fr": "Prévisualisez et choisissez la bonne échelle de caractères pour votre projet. Expérimentez avec la taille de la police, l'échelle et les différentes polices Web.",
+  "description_en": "Preview and choose the right type scale for your project. Experiment with font size, scale and different webfonts.",
+  "logo": "logo",
+  "logoretina": "logoretina",
+  "categorie": "typos",
+  "link": "https://type-scale.com/"
+},
+{
+  "id": 43,
+  "titre": "Color Hunt",
+  "description_fr": "Color Hunt est une plate-forme gratuite et ouverte pour l'inspiration des couleurs avec des milliers de palettes de couleurs tendance sélectionnées à la main.",
+  "description_en": "Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.",
+  "logo": "https://blogdummi.fr/wp-content/uploads/2019/03/favicon-color-hunt.png",
+  "logoretina": "https://blogdummi.fr/wp-content/uploads/2019/03/favicon-color-hunt.png",
+  "categorie": "couleurs",
+  "link": "https://colorhunt.co/"
+},
+{
+  "id": 44,
+  "titre": "Adobe Color",
+  "description_fr": "Adobe Color propose des thèmes chromatiques uniques, prêts à l'emploi ou à créer vous-même, pour tous vos projets de création. ",
+  "description_en": "Adobe Color offers unique color themes, ready to use or to create yourself, for all your creative projects.",
+  "logo": "https://www.adobe.com/content/dam/cc/us/en/products/color/max2019/dt_Color_mnemonic.png.img.png",
+  "logoretina": "https://www.adobe.com/content/dam/cc/us/en/products/color/max2019/dt_Color_mnemonic.png.img.png",
+  "categorie": "couleurs",
+  "link": "https://color.adobe.com/fr/create"
+},
+{
+  "id": 45,
+  "titre": "Adobe Fonts",
+  "description_fr": "Trouvez la bonne voie grâce aux jeux de polices qui s’allient naturellement, qu’il s’agisse d’un projet à thème ou d’une simple inspiration.",
+  "description_en": "Find the right path with naturally matched font sets, whether it's a theme project or just inspiration.",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Adobe_Fonts.svg/1200px-Adobe_Fonts.svg.png",
+  "logoretina": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Adobe_Fonts.svg/1200px-Adobe_Fonts.svg.png",
+  "categorie": "typos",
+  "link": "https://fonts.adobe.com/"
+},
+{
+  "id": 46,
+  "titre": "ColorBox.io",
+  "description_fr": "Colorbox est un outil de couleur pour produire des jeux de couleurs.",
+  "description_en": "Colorbox is a color tool to produce color sets.",
+  "logo": "https://ph-files.imgix.net/46ac658f-2ba2-45ce-b684-1366d80dbbe4?auto=format",
+  "logoretina": "https://ph-files.imgix.net/46ac658f-2ba2-45ce-b684-1366d80dbbe4?auto=format",
+  "categorie": "couleurs",
+  "link": "https://www.colorbox.io/"
+},
+{
+  "id": 47,
+  "titre": "WebGradients",
+  "description_fr": "WebGradients est une collection gratuite de 180 dégradés linéaires que vous pouvez utiliser comme toile de fond de contenu dans n'importe quelle partie de votre site Web. Copiez facilement le code croisé CSS3 et utilisez-le en un instant! Nous avons également préparé une version .PNG de chaque dégradé. En prime, il existe des packs pour Sketch & Photoshop.",
+  "description_en": "WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. Easy copy CSS3 crossbrowser code and use it in a moment! We've also prepared a .PNG version of each gradient. As a bonus, there are packs for Sketch & Photoshop.",
+  "logo": "https://webgradients.com/img/other/logos/webgradients_logo.png",
+  "logoretina": "https://webgradients.com/img/other/logos/webgradients_logo.png",
+  "categorie": "couleurs",
+  "link": "https://webgradients.com/"
+},
+{
+  "id": 48,
+  "titre": "Coolors",
+  "description_fr": "Créez la palette parfaite ou laissez-vous inspirer par des milliers de belles combinaisons de couleurs.",
+  "description_en": "Create the perfect palette or get inspired by thousands of beautiful color schemes.",
+  "logo": "https://coolors.co/assets/img/logo.svg",
+  "logoretina": "",
+  "categorie": "couleurs",
+  "link": "https://coolors.co/"
+},
+{
+  "id": 49,
+  "titre": "Picular",
+  "description_fr": "Picular est un générateur de couleurs primaires ultra-rapide utilisant la recherche d'images de Google. Si vous avez déjà eu besoin du code hexadécimal jaune parfait d'une banane, c'est l'outil qu'il vous faut.",
+  "description_en": "Picular is a rocket fast primary color generator using Google’s image search. If you ever needed the perfect yellow hex code from a banana, this is the tool for you.",
+  "logo": "https://picular.co/ogimage.jpg",
+  "logoretina": "https://picular.co/ogimage.jpg",
+  "categorie": "couleurs",
+  "link": "https://picular.co/"
+},
+{
+  "id": 50,
+  "titre": "Pexels",
+  "description_fr": "Photos gratuites que vous pouvez utiliser partout, gratuites pour un usage commercial et sans attribution requise.",
+  "description_en": "Free stock photos you can use everywhere, free for commercial use and no attribution required.",
+  "logo": "https://images.pexels.com/static/challenge/103/sponsor_image/static-606.png?w={:size=%3E45}&h={:size=%3E45}&dpr=1&fit=crop",
+  "logoretina": "https://images.pexels.com/static/challenge/103/sponsor_image/static-606.png?w={:size=%3E45}&h={:size=%3E45}&dpr=1&fit=crop",
+  "categorie": "design",
+  "link": "https://www.pexels.com/"
+},
+{
+  "id": 51,
+  "titre": "Flickr",
+  "description_fr": "Flickr est un site web de partage de photographies et de vidéos gratuit, avec certaines fonctionnalités payantes.",
+  "description_en": "Flickr is a free photo and video sharing website, with some paid features.",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flickr_large_white_chiclet_logo_-_no_rounded_corners%2C_no_border.svg/1200px-Flickr_large_white_chiclet_logo_-_no_rounded_corners%2C_no_border.svg.png",
+  "logoretina": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flickr_large_white_chiclet_logo_-_no_rounded_corners%2C_no_border.svg/1200px-Flickr_large_white_chiclet_logo_-_no_rounded_corners%2C_no_border.svg.png",
+  "categorie": "design",
+  "link": "https://www.flickr.com/explore"
+},
+{
+  "id": 52,
+  "titre": "Pixabay",
+  "description_fr": "Trouver de superbes images HD libres de droits, usage commercial gratuit et sans attribution requise.",
+  "description_en": "Find great royalty free HD images, free commercial use and no attribution required.",
+  "logo": "https://pixabay.com/static/img/logo_square.png",
+  "logoretina": "https://pixabay.com/static/img/logo_square.png",
+  "categorie": "design",
+  "link": "https://pixabay.com/fr/"
+},
+{
+  "id": 53,
+  "titre": "Font Awesome",
+  "description_fr": "Obtenez des icônes vectorielles et des logos sociaux sur votre site Web avec Font Awesome, le jeu d'icônes et la boîte à outils les plus populaires du Web.",
+  "description_en": "Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.",
+  "logo": "https://f0.pngfuel.com/png/644/774/font-awesome-computer-icons-typeface-computer-software-font-stack-png-clip-art.png",
+  "logoretina": "https://f0.pngfuel.com/png/644/774/font-awesome-computer-icons-typeface-computer-software-font-stack-png-clip-art.png",
+  "categorie": "codes",
+  "link": "https://fontawesome.com/"
+},
+{
+  "id": 54,
+  "titre": "Orion Icon Library",
+  "description_fr": "La collection d'icônes la plus diversifiée de tous les temps.",
+  "description_en": "The most diverse collection of icons ever.",
+  "logo": "https://pbs.twimg.com/profile_images/923643335197196288/3a9PS8bu_400x400.jpg",
+  "logoretina": "https://pbs.twimg.com/profile_images/923643335197196288/3a9PS8bu_400x400.jpg",
+  "categorie": "design",
+  "link": "https://orioniconlibrary.com/app"
+},
+{
+  "id": 55,
+  "titre": "Flaticon",
+  "description_fr": "Icônes vectorielles gratuites au format SVG, PSD, PNG, EPS&hellip;. Des milliers d'icônes gratuites dans la plus grande base de données d'icônes vectorielles gratuites&#8239;!",
+  "description_en": "2833500+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT. Thousands of free icons in the largest database of free vector icons&#8239;!",
+  "logo": "https://media.flaticon.com/dist/min/img/flaticon-logo.svg",
+  "logoretina": "https://media.flaticon.com/dist/min/img/flaticon-logo.svg",
+  "categorie": "design",
+  "link": "https://www.flaticon.com/"
+},
+{
+  "id": 56,
+  "titre": "Compressor.io",
+  "description_fr": "Compressor.io est un outil en ligne puissant pour réduire considérablement la taille de vos images et photos tout en maintenant une haute qualité avec presque aucune différence avant et après la compression.",
+  "description_en": "Compressor.io is a powerful online tool for reducing drastically the size of your images and photos whilst maintaining a high quality with almost no difference before and after compression.",
+  "logo": "https://compressor.io/img/compressor.png",
+  "logoretina": "https://compressor.io/img/compressor.png",
+  "categorie": "compression",
+  "link": "https://compressor.io/"
+},
+{
+  "id": 57,
+  "titre": "Compress GIF",
+  "description_fr": "Compressez GIF avec la meilleure qualité et compression. Réduisez la taille de fichier de nombreuses images GIF à la fois en ligne.",
+  "description_en": "Compress GIF with the best quality and compression. Reduce the filesize of many GIF images at once online.",
+  "logo": "https://www.iloveimg.com/img/iloveimg.svg",
+  "logoretina": "https://www.iloveimg.com/img/iloveimg.svg",
+  "categorie": "compression",
+  "link": "https://www.iloveimg.com/compress-image/compress-gif"
+},
+{
+  "id": 58,
+  "titre": "Mural",
+  "description_fr": "MURAL est un espace de travail de collaboration visuelle pour les équipes modernes. Basé dans le cloud, MURAL fournit des tableaux blancs numériques partagés où les équipes explorent visuellement des défis complexes, facilitent les méthodes de conception sur n'importe quel appareil.",
+  "description_en": "MURAL is a visual collaboration workspace for modern teams. Based in the cloud, MURAL provides shared, digital whiteboards where teams visually explore complex challenges, facilitate design thinking methods, and organize Agile processes across any device.",
+  "logo": "https://assets-global.website-files.com/5ddd9c3f2186308353fe682d/5e6ec192a2ae97caeb30f98f_mural-logo.svg",
+  "logoretina": "",
+  "categorie": "productivite",
+  "link": "https://www.mural.co/"
+},
+{
+  "id": 59,
+  "titre": "Trello",
+  "description_fr": "Trello est un outil de gestion de projet en ligne. Les tableaux, listes et cartes de Trello vous permettent d'organiser vos projets et de définir leur ordre de priorité de façon amusante, souple et enrichissante.",
+  "description_en": "Trello is the easy, free, flexible, and visual way to manage your projects and organize anything, trusted by millions of people from all over the world.",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/570px-Trello_logo.svg.png",
+  "logoretina": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/570px-Trello_logo.svg.png",
+  "categorie": "productivite",
+  "link": "https://trello.com/"
+},
+{
+  "id": 60,
+  "titre": "Panda",
+  "description_fr": "Découvrez les meilleurs outils, ressources et inspiration dans le monde du design et de la technologie.",
+  "description_en": "Stay informed and inspired wherever you are We're making Panda available on all popular devices because you never know when inspiration might strike.",
+  "logo": "https://usepanda.com/img/panda-logo-text.svg",
+  "logoretina": "",
+  "categorie": "inspiration",
+  "link": "https://usepanda.com/"
+},
+{
+  "id": 61,
+  "titre": "Google Docs",
+  "description_fr": "Créez des documents percutants, travaillez à plusieurs sur des documents que vous pouvez créer et modifier où que vous soyez, gratuitement.",
+  "description_en": "Create powerful documents, work with others on documents that you can create and modify wherever you are, for free.",
+  "logo": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_dark_color_92x36dp.png",
+  "logoretina": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_dark_color_92x36dp.png",
+  "categorie": "productivite",
+  "link": "https://www.google.com/docs/about/"
+},
+{
+  "id": 62,
+  "titre": "Milanote",
+  "description_fr": "Milanote est un outil simple à utiliser il vous permet d'organisez vos idées et projets en tableaux visuels.",
+  "description_en": "Milanote is an easy-to-use tool to organize your ideas and projects into visual boards.",
+  "logo": "https://thedigitalprojectmanager.com/wp-content/uploads/2018/10/Milanote-logo-collaboration-tools.png",
+  "logoretina": "https://thedigitalprojectmanager.com/wp-content/uploads/2018/10/Milanote-logo-collaboration-tools.png",
+  "categorie": "productivite",
+  "link": "https://milanote.com/"
+},
+{
+  "id": 63,
+  "titre": "Flipboard",
+  "description_fr": "Utilisé par des millions de personnes tous les jours, Flipboard est le service primé qui rassemble actualités, articles populaires et conversation autour de tout centre d'intérêt ou toute passion. Grâce à sa centralisation, lire, collectionner et partager des articles n'a jamais été aussi simple ou aussi magnifique.",
+  "description_en": "Flipboard curates the world's stories so you can focus on investing in yourself, staying informed, and getting involved. With curated packages that offer insights and inspiration for any interest, Flipboard will make you feel like you’ve spent your time well.",
+  "logo": "https://image.flaticon.com/icons/svg/356/356016.svg",
+  "logoretina": "",
+  "categorie": "productivite",
+  "link": "https://flipboard.com/"
+},
+{
+  "id": 64,
+  "titre": "TinyPNG",
+  "description_fr": "TinyPNG est un outil qui permet de compresser des fichiers JPEG et PNG pour réduire leur taille.",
+  "description_en": "TinyPNG is a tool that lets you compress JPEG and PNG files to reduce their size.",
+  "logo": "https://www.blogdumoderateur.com/tools/wp-content/uploads/2020/01/tinypng-67x67.png",
+  "logoretina": "https://www.blogdumoderateur.com/tools/wp-content/uploads/2020/01/tinypng-67x67.png",
+  "categorie": "compression",
+  "link": "https://tinypng.com/"
+},
+{
+  "id": 65,
+  "titre": "EzGIF",
+  "description_fr": "EzGIF est un outil graphique dédié à la retouche d'images GIF, un format d’image très populaire sur Internet, notamment sur les réseaux sociaux et les forums.",
+  "description_en": "EzGIF is a graphical tool dedicated to retouching GIF images, a very popular image format on the Internet, especially on social networks and forums.",
+  "logo": "https://www.blogdumoderateur.com/tools/wp-content/uploads/2019/12/ezgif-logo-67x67.jpg",
+  "logoretina": "https://www.blogdumoderateur.com/tools/wp-content/uploads/2019/12/ezgif-logo-67x67.jpg",
+  "categorie": "compression",
+  "link": "https://ezgif.com/"
+},
+{
+  "id": 66,
+  "titre": "Pluralsight",
+  "description_fr": "Pluralsight est une plate-forme de compétences technologiques qui fournit le développement Web, la certification informatique et la formation en ligne qui vous aide à progresser avec la bonne technologie et les bonnes compétences.",
+  "description_en": "The tech skills platform that provides web development, IT certification and online training that helps you move forward with the right technology and the right skills. ",
+  "logo": "https://www.pluralsight.com/etc/clientlibs/pluralsight/main/images/global/header/PS_logo.png",
+  "logoretina": "https://www.pluralsight.com/etc/clientlibs/pluralsight/main/images/global/header/PS_logo.png",
+  "categorie": "tutoriels",
+  "link": "https://www.pluralsight.com/"
+},
+{
+  "id": 67,
+  "titre": "Uxpressia",
+  "description_fr": "Outil pour créer des User Journey.",
+  "description_en": "Start your customer journey mapping with UXpressia. Design user experience, analyze touchpoints in multi channel interactions and share journeys online.",
+  "logo": "https://uxpressia.com/_nuxt/img/96ca581.svg",
+  "logoretina": "https://uxpressia.com/_nuxt/img/96ca581.svg",
+  "categorie": "design",
+  "link": "https://uxpressia.com/"
+},
+{
+  "id": 68,
+  "titre": "W3Schools",
+  "description_fr": "W3Schools est un site Web destiné à l'apprentissage en ligne des technologies Web.",
+  "description_en": "W3Schools is a website for online learning of web technologies.",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/W3Schools_logo.png",
+  "logoretina": "https://upload.wikimedia.org/wikipedia/commons/3/3e/W3Schools_logo.png",
+  "categorie": "tutoriels",
+  "link": "http://w3schools.com/"
+},
+{
+  "id": 69,
+  "titre": "Freenom",
+  "description_fr": "Obtener un nom de domaine gratuit.",
+  "description_en": "Get a free domain name",
+  "logo": "https://www.freenom.com/images.v2/logo.png",
+  "logoretina": "https://www.freenom.com/images.v2/logo.png",
+  "categorie": "divers",
+  "link": "https://www.freenom.com/fr/index.html?lang=fr"
+},
+{
+  "id": 70,
+  "titre": "Affinity",
+  "description_fr": "Avec une fluidité et une efficacité sans équivalent en matière de retouche photo, de conception graphique et de PAO, les applications Affinity repoussent les limites de ce que la technologie créative peut apporter.",
+  "description_en": "With unrivaled fluidity and efficiency in photo editing, graphic design and desktop publishing, Affinity applications push the boundaries of what creative technology can bring.",
+  "logo": "https://images.g2crowd.com/uploads/product/image/social_square/social_square_b3732cd699a42ec40a2fe8a512854d18/affinity-designer.jpg",
+  "logoretina": "https://images.g2crowd.com/uploads/product/image/social_square/social_square_b3732cd699a42ec40a2fe8a512854d18/affinity-designer.jpg",
+  "categorie": "design",
+  "link": "https://affinity.serif.com/fr/"
+},
+{
+  "id": 71,
+  "titre": "SVGito",
+  "description_fr": "SVGito vous permet d'optimiser vos fichiers svg.",
+  "description_en": "SVGito is a free web app that cleans up your SVG files, to save you the bother of manually editing them. Created by Peter Nowell, this neat little app automatically optimises your SVGs at the touch of a button, and will typically reduce their size and complexity without changing how they actually look on screen.",
+  "logo": "https://mohammedmoussaoui.be/projets/tfa/DesignTools/assets/logos/divers/svgito.png",
+  "logoretina": "https://mohammedmoussaoui.be/projets/tfa/DesignTools/assets/logos/divers/svgito@2x.png",
+  "categorie": "compression",
+  "link": "https://sketchmaster.com/svg-optimizer"
+},
+{
+  "id": 72,
+  "titre": "ColorZilla",
+  "description_fr": "ColorZilla est une extension Mozilla qui assiste les développeurs Web et les graphistes dans les tâches liées aux couleurs et autres.",
+  "description_en": "ColorZilla is a Mozilla extension that assists web developers and graphic designers with color related and other tasks.",
+  "logo": "https://www.colorzilla.com/images/logo.png",
+  "logoretina": "https://www.colorzilla.com/images/logo.png",
+  "categorie": "couleurs",
+  "link": "https://www.colorzilla.com/"
+},
+{
+  "id": 72,
+  "titre": "Cartoonize",
+  "description_fr": "Dessinez-vous et convertissez vos photos et images en effets de dessin animé en un seul clic, directement en ligne et gratuitement.",
+  "description_en": "Cartoon yourself and convert your photo and picture into cartoon effect in one click, directly online and for free.",
+  "logo": "https://www.cartoonize.net/images_new/logo.png",
+  "logoretina": "https://www.cartoonize.net/images_new/logo.png",
+  "categorie": "divers",
+  "link": "https://www.cartoonize.net/images_new/logo.png"
+},
+{
+  "id": 73,
+  "titre": "Streak",
+  "description_fr": "Streak vous permet de recevoir un accusé de réception lorsque votre destinataire aura cliqué sur le mail que vous lui avez envoyé ou d'utiliser Gmail comme un CRM, organiser des événements&hellip;",
+  "description_en": "Streak allows you to receive an acknowledgment when your recipient has clicked on the email you sent him or to use Gmail as a CRM, organize events&hellip;",
+  "logo": "https://assets-global.website-files.com/5b7f24cc9009731774d7be8e/5c06a15b95c700eebb7b9823_headerLockup_2x.png",
+  "logoretina": "https://assets-global.website-files.com/5b7f24cc9009731774d7be8e/5c06a15b95c700eebb7b9823_headerLockup_2x.png",
+  "categorie": "divers",
+  "link": "https://www.streak.com/"
+},
+{
+  "id": 74,
+  "titre": "Hunter",
+  "description_fr": "Contacter le PDG de n'importe quelle entreprise.",
+  "description_en": "Contact the CEO of any company.",
+  "logo": "https://mohammedmoussaoui.be/projets/tfa/DesignTools/assets/logos/divers/hunter.jpg",
+  "logoretina": "https://mohammedmoussaoui.be/projets/tfa/DesignTools/assets/logos/divers/hunter@2x.jpg",
+  "categorie": "divers",
+  "link": "https://hunter.io/"
+},
+{
+  "id": 75,
+  "titre": "FutureMe",
+  "description_fr": "&Eacute;crire à ton futur pour te motiver.",
+  "description_en": "Set goals for yourself, make a prediction about the world. Envision the future, and then make it happen.",
+  "logo": "https://mohammedmoussaoui.be/projets/tfa/DesignTools/assets/logos/divers/futureme.svg",
+  "logoretina": "https://mohammedmoussaoui.be/projets/tfa/DesignTools/assets/logos/divers/futureme.svg",
+  "categorie": "divers",
+  "link": "https://www.futureme.org/"
+},
+{
+  "id": 76,
+  "titre": "IA Writer",
+  "description_fr": "iA Writer élimine toute distraction. Elle offre un environnement d'écriture calme et concentré pour pouvoir s'exprimer clairement.",
+  "description_en": "iA Writer eliminates all distractions. It offers a calm and concentrated writing environment so that you can express yourself clearly.",
+  "logo": "https://ia.net/wp-content/themes/ia7/assets/img/svg/logo-ia.svg",
+  "logoretina": "https://ia.net/wp-content/themes/ia7/assets/img/svg/logo-ia.svg",
+  "categorie": "divers",
+  "link": "https://ia.net/fr/writer"
+},
+{
+  "id": 76,
+  "titre": "nom",
+  "description_fr": "Description",
+  "description_en": "Description",
+  "logo": "logo",
+  "logoretina": "logoretina",
+  "categorie": "couleurs",
+  "link": "lieb"
+}
+
+
+]
